@@ -1,0 +1,3303 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/Alyson-Gannon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Alyson-Gannon/" rel="alternate" type="text/html" /><updated>2024-03-07T22:13:36-05:00</updated><id>http://localhost:4000/Alyson-Gannon/feed.xml</id><title type="html">AiCRE</title><entry><title type="html">Village Center</title><link href="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html" rel="alternate" type="text/html" title="Village Center" /><published>2024-03-07T20:57:41-05:00</published><updated>2024-03-07T20:57:41-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_113/113.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0015</td>
+    <td>4080</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_113/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_113/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0015</h2>
+    <h2>GLA: 4080</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">5.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">4.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">4.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Unknown</td>
+            <td title="Score as a percentage">11%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Unknown</td>  
+            <td title="Score">4.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">3.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_113/0015/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_113/0015/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Village Center</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_113" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ocala Corners</title><link href="http://localhost:4000/Alyson-Gannon/regency_179/2024/03/07/Regency_179.html" rel="alternate" type="text/html" title="Ocala Corners" /><published>2024-03-07T20:57:17-05:00</published><updated>2024-03-07T20:57:17-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_179/2024/03/07/Regency_179</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_179/2024/03/07/Regency_179.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_179/179.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0130</td>
+    <td>3060</td>
+    </tr>
+    
+    <tr>
+    <td>0350</td>
+    <td>2332</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_179/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_179/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0130</h2>
+    <h2>GLA: 3060</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">23%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">9.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">16%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">6.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">5.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">4.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">4.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_179/0130/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_179/0130/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 0350</h2>
+    <h2>GLA: 2332</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">22%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">8.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">16%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">6.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">5.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">5.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">4.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_179/0350/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_179/0350/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Ocala Corners</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_179" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Corkscrew Village</title><link href="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html" rel="alternate" type="text/html" title="Corkscrew Village" /><published>2024-03-07T20:56:45-05:00</published><updated>2024-03-07T20:56:45-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_60265/60265.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>300</td>
+    <td>1832</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60265/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60265/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 300</h2>
+    <h2>GLA: 1832</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">27%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">10.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">18%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">7.3X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">17%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">6.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">5.3X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>
+            <td title="Score as a percentage">5%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>  
+            <td title="Score">2.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60265/300/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60265/300/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Corkscrew Village</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_60265" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Regency Square</title><link href="http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18.html" rel="alternate" type="text/html" title="Regency Square" /><published>2024-03-07T20:56:28-05:00</published><updated>2024-03-07T20:56:28-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_18/18.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>2482</td>
+    <td>612</td>
+    </tr>
+    
+    <tr>
+    <td>2488</td>
+    <td>3177</td>
+    </tr>
+    
+    <tr>
+    <td>2494</td>
+    <td>872</td>
+    </tr>
+    
+    <tr>
+    <td>2498</td>
+    <td>860</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_18/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_18/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 2482</h2>
+    <h2>GLA: 612</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">22%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">8.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>  
+            <td title="Score">5.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>  
+            <td title="Score">3.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">3.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Finance and Insurance</td>
+            <td title="Score as a percentage">7%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Finance and Insurance</td>  
+            <td title="Score">2.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2482/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2482/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 2488</h2>
+    <h2>GLA: 3177</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">15%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">6.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>  
+            <td title="Score">5.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Finance and Insurance</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Finance and Insurance</td>  
+            <td title="Score">4.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">4.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">3.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2488/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2488/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 2494</h2>
+    <h2>GLA: 872</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">23%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">9.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>  
+            <td title="Score">5.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>  
+            <td title="Score">4.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">4.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">6%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">2.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2494/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2494/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 2498</h2>
+    <h2>GLA: 860</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">23%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">9.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Snack and Nonalcoholic Beverage Bars</td>  
+            <td title="Score">4.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Rental and Leasing Services</td>  
+            <td title="Score">3.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">3.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Other Services</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Other Services</td>  
+            <td title="Score">3.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2498/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_18/2498/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Regency Square</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h2></h2></div></h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_18" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Shoppes of Grande Oak</title><link href="http://localhost:4000/Alyson-Gannon/regency_235/2024/03/07/Regency_235.html" rel="alternate" type="text/html" title="Shoppes of Grande Oak" /><published>2024-03-07T20:55:01-05:00</published><updated>2024-03-07T20:55:01-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_235/2024/03/07/Regency_235</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_235/2024/03/07/Regency_235.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_235/235.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0106</td>
+    <td>1200</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_235/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_235/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0106</h2>
+    <h2>GLA: 1200</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>
+            <td title="Score as a percentage">32%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>  
+            <td title="Score">12.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">19%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">7.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">5.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">3.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>
+            <td title="Score as a percentage">6%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>  
+            <td title="Score">2.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_235/0106/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_235/0106/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Shoppes of Grande Oak</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_235" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Suncoast Crossing</title><link href="http://localhost:4000/Alyson-Gannon/regency_60127/2024/03/07/Regency_60127.html" rel="alternate" type="text/html" title="Suncoast Crossing" /><published>2024-03-07T20:54:46-05:00</published><updated>2024-03-07T20:54:46-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_60127/2024/03/07/Regency_60127</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_60127/2024/03/07/Regency_60127.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_60127/60127.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0403</td>
+    <td>1400</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60127/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60127/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0403</h2>
+    <h2>GLA: 1400</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>
+            <td title="Score as a percentage">18%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>  
+            <td title="Score">7.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">17%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">6.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>  
+            <td title="Score">5.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">5.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">4.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60127/0403/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60127/0403/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Suncoast Crossing</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_60127" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Shoppes of Pebblebrooke</title><link href="http://localhost:4000/Alyson-Gannon/regency_92060/2024/03/07/Regency_92060.html" rel="alternate" type="text/html" title="Shoppes of Pebblebrooke" /><published>2024-03-07T20:54:29-05:00</published><updated>2024-03-07T20:54:29-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_92060/2024/03/07/Regency_92060</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_92060/2024/03/07/Regency_92060.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_92060/92060.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0005</td>
+    <td>2400</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_92060/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_92060/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0005</h2>
+    <h2>GLA: 2400</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">27%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">11.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">18%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">7.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">16%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">6.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Other Amusement and Recreation Industries</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Other Amusement and Recreation Industries</td>  
+            <td title="Score">5.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Health and Personal Care Stores</td>
+            <td title="Score as a percentage">5%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Health and Personal Care Stores</td>  
+            <td title="Score">1.8X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_92060/0005/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_92060/0005/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Shoppes of Pebblebrooke</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_92060" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Charlotte Square</title><link href="http://localhost:4000/Alyson-Gannon/regency_80027/2024/03/07/Regency_80027.html" rel="alternate" type="text/html" title="Charlotte Square" /><published>2024-03-07T20:54:14-05:00</published><updated>2024-03-07T20:54:14-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_80027/2024/03/07/Regency_80027</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_80027/2024/03/07/Regency_80027.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_80027/80027.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>19</td>
+    <td>3300</td>
+    </tr>
+    
+    <tr>
+    <td>3</td>
+    <td>2100</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_80027/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_80027/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 19</h2>
+    <h2>GLA: 3300</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">22%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">8.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">5.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">5.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">4.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">4.0X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_80027/19/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_80027/19/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 3</h2>
+    <h2>GLA: 2100</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">21%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">8.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>
+            <td title="Score as a percentage">20%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Supermarkets and Other Grocery Stores</td>  
+            <td title="Score">7.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">13%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">5.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>
+            <td title="Score as a percentage">11%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Furniture and Home Furnishings Stores</td>  
+            <td title="Score">4.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">3.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_80027/3/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_80027/3/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Charlotte Square</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_80027" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bloomingdale Square</title><link href="http://localhost:4000/Alyson-Gannon/regency_150/2024/03/07/Regency_150.html" rel="alternate" type="text/html" title="Bloomingdale Square" /><published>2024-03-07T20:53:44-05:00</published><updated>2024-03-07T20:53:44-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_150/2024/03/07/Regency_150</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_150/2024/03/07/Regency_150.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_150/150.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>0405</td>
+    <td>1203</td>
+    </tr>
+    
+    <tr>
+    <td>0615</td>
+    <td>3878</td>
+    </tr>
+    
+    <tr>
+    <td>0901</td>
+    <td>2788</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_150/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_150/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 0405</h2>
+    <h2>GLA: 1203</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Gaming Industries</td>
+            <td title="Score as a percentage">29%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Gaming Industries</td>  
+            <td title="Score">11.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>
+            <td title="Score as a percentage">16%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Clothing and Clothing Accessories Stores</td>  
+            <td title="Score">6.3X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>  
+            <td title="Score">3.5X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Unknown</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Unknown</td>  
+            <td title="Score">3.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">6%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">2.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0405/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0405/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 0615</h2>
+    <h2>GLA: 3878</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Gaming Industries</td>
+            <td title="Score as a percentage">32%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Gaming Industries</td>  
+            <td title="Score">12.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>  
+            <td title="Score">4.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Unknown</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Unknown</td>  
+            <td title="Score">3.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">3.3X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">7%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">2.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0615/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0615/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="centered-text">
+    <h2>Space ID: 0901</h2>
+    <h2>GLA: 2788</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Gaming Industries</td>
+            <td title="Score as a percentage">32%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Gaming Industries</td>  
+            <td title="Score">12.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>  
+            <td title="Score">4.9X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Arts, Entertainment and Recreation</td>  
+            <td title="Score">3.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">9%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">3.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Unknown</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Unknown</td>  
+            <td title="Score">3.2X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0901/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_150/0901/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Bloomingdale Square</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_150" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Naples Walk</title><link href="http://localhost:4000/Alyson-Gannon/regency_60267/2024/03/07/Regency_60267.html" rel="alternate" type="text/html" title="Naples Walk" /><published>2024-03-07T20:52:37-05:00</published><updated>2024-03-07T20:52:37-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_60267/2024/03/07/Regency_60267</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_60267/2024/03/07/Regency_60267.html"><![CDATA[<div class="slide-in-left">
+<h1>
+    <span id="head"></span>
+</h1>
+</div>
+
+<!-- <div class="slide-in-left">
+X vacancies out of Y spaces.
+</div> -->
+
+<div class="slide-in-left">
+    
+    
+<img src="/Alyson-Gannon/assets/images/Regency_60267/60267.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="vacancies"></span>
+</h1>
+</div>
+
+<div class="slide-in-left">
+<table class="vacancies-table">
+<thead>
+    <tr>
+    <th>Space ID</th>
+    <th>GLA</th>
+    </tr>
+</thead>
+<tbody>
+    
+    <tr>
+    <td>2210</td>
+    <td>4213</td>
+    </tr>
+    
+</tbody>
+</table>
+</div>
+
+<div class="slide-in-left">
+<h1>
+    <span id="diversity"></span>
+</h1>
+</div>
+
+<p><br /></p>
+
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60267/diversity.svg" alt="Diversity Chart" class="img-responsive" />
+</div>
+
+<h3>About Diversity<h3>
+    <p class="small-text">We call how diverse the set of co-tenants is <strong>Property Diversity. Property Diversity </strong> ranges from 0% to 100%. 0% is the least diverse, meaning every tenant type is the same. 100% is the most diverse, meaning every tenant type is different. This metric considers both the presence and proportion of different tenant types in terms of the property’s overall GLA. It assumes that a more even distribution of GLA across tenant types indicates greater diversity. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<!-- Slide-in SVG image -->
+<div class="slide-in-left">
+<img src="/Alyson-Gannon/assets/images/Regency_60267/elasticity.svg" alt="Elasticity Chart" class="img-responsive" />
+</div>
+<h3>About Competitiveness<h3>
+    <p class="small-text"> How competitive each tenant is to every other tenant is measured by the cross tenant elasticity of demand. We then average the results and weight by tenant type GLA. The intuition of this metric is simple: competitors affect each other’s demand by increasing or decreasing their prices. Take Jelly and Jam stores as an example. Jelly stores compete with Jam stores. We know this because if the price of jelly goes up, people buy less jelly but buy more jam. On the other hand, if peanut butter gets more expensive, sales of both jelly and jam go down. Peanut Butter stores are not competitive with Jelly stores, while Jelly stores are quite competitive with Jam stores. For more information about how metrics are calculated, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+<hr />
+<br />
+<!-- Space Details and Images -->
+<div class="slide-in-left">
+<h1>
+    <span id="spaces"></span>
+</h1>
+</div>
+
+<div class="centered-text">
+    <h2>Space ID: 2210</h2>
+    <h2>GLA: 4213</h2>
+    <!-- Recommendations Table for each space -->
+
+    <table class="recommendations-table">
+    <thead>
+        <tr>
+        <th>Recommendation</th>
+        <th>Score</th>
+        <!-- Add more column headers as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>
+            <td title="Score as a percentage">16%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Food and Beverage Stores</td>  
+            <td title="Score">6.3X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, & Pet Care</td>
+            <td title="Score as a percentage">14%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Salons, Drycleaning/Laundry, &amp; Pet Care</td>  
+            <td title="Score">5.7X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>
+            <td title="Score as a percentage">12%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast-food restaurants</td>  
+            <td title="Score">4.6X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>
+            <td title="Score as a percentage">10%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">General Merchandise Stores</td>  
+            <td title="Score">4.1X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+        <!-- <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>
+            <td title="Score as a percentage">8%</td>
+        </tr> TODO: don't hard code the .025 division. should be / len(_model_classes) -->
+        <tr>
+            <td title="Details about recommendation">Limited-Service Restaurants Fast casual restaurants</td>  
+            <td title="Score">3.4X</td>
+            <!-- Add more cells as needed -->
+        </tr>
+        
+    </tbody>
+    </table>
+    <h2>About Recommendations<h2>
+    <p class="small-text">A score of 10X means that the recommended tenant type is 10 times more useful to your property than any other tenant type. For more information about how recommendations are made, please visit our <a href="/Alyson-Gannon/docs/faqs/">FAQs page</a>.</p>
+
+
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60267/2210/cotenant_impact.svg" alt="Cotenant Impact Chart" class="img-responsive" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="slide-in-left">
+    <img src="/Alyson-Gannon/assets/images/Regency_60267/2210/metric_changes.svg" alt="Metric Changes Chart" class="img-responsive" />
+</div>
+<br />
+<br />
+<br />
+<hr />
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Select all .slide-in-left elements
+    const slideInElements = document.querySelectorAll('.slide-in-left');
+
+    // Function to handle the slide-in effect
+    function slideIn() {
+        slideInElements.forEach(element => {
+            // Add the 'start-slide-in' class to start the animation
+            element.classList.add('start-slide-in');
+    });
+    }
+
+    // Function to check if an image is loaded
+    function isImageLoaded(imgElement) {
+        return imgElement.complete && imgElement.naturalHeight !== 0;
+    }
+
+    // Check if all images are loaded and apply the slide-in effect
+    slideInElements.forEach(element => {
+        const img = element.querySelector('img');
+        if (img) {
+            if (isImageLoaded(img)) {
+                // Image is loaded, apply the slide-in effect
+                slideIn();
+            } else {
+                // If image is not loaded, add an event listener
+                img.addEventListener('load', slideIn);
+                img.addEventListener('error', function() {
+                    console.error('Image failed to load:', img.src);
+            });
+            }
+        }
+    });
+});
+
+</script>
+
+<script>
+var head = new Typed('#head', {
+    strings: [
+    'Property Profile for <strong class="strong">Naples Walk</strong>'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#diversity', {
+    strings: [
+    'Property Diversity and Competition'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#vacancies', {
+    strings: [
+    'Vacancies'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+
+<script>
+var head = new Typed('#spaces', {
+    strings: [
+    'Vacancy Detail and Fill Recommendations'
+    ],
+    typeSpeed: 30,
+    startDelay: 200,
+    smartBackspace: false,
+    loop: false,
+    backDelay: 1000, // Delay period after the text is typed out
+    showCursor: true,
+    cursorChar: '|'
+});
+</script>
+    
+</h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_60267" /><summary type="html"><![CDATA[]]></summary></entry></feed>

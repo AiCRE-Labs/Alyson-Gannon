@@ -1,0 +1,75 @@
+properties:
+  Regency_113:
+    property_name: Village Center
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_113/113.png
+    vacancies:
+    - gla: 4080
+      id: '0015'
+  Regency_150:
+    property_name: Bloomingdale Square
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_150/150.png
+    vacancies:
+    - gla: 1203
+      id: '0405'
+    - gla: 3878
+      id: '0615'
+    - gla: 2788
+      id: 0901
+  Regency_179:
+    property_name: Ocala Corners
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_179/179.png
+    vacancies:
+    - gla: 3060
+      id: '0130'
+    - gla: 2332
+      id: '0350'
+  Regency_18:
+    property_name: Regency Square
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_18/18.png
+    vacancies:
+    - gla: 612
+      id: '2482'
+    - gla: 3177
+      id: '2488'
+    - gla: 872
+      id: '2494'
+    - gla: 860
+      id: '2498'
+  Regency_235:
+    property_name: Shoppes of Grande Oak
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_235/235.png
+    vacancies:
+    - gla: 1200
+      id: '0106'
+  Regency_60127:
+    property_name: Suncoast Crossing
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_60127/60127.png
+    vacancies:
+    - gla: 1400
+      id: '0403'
+  Regency_60265:
+    property_name: Corkscrew Village
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_60265/60265.png
+    vacancies:
+    - gla: 1832
+      id: '300'
+  Regency_60267:
+    property_name: Naples Walk
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_60267/60267.png
+    vacancies:
+    - gla: 4213
+      id: '2210'
+  Regency_80027:
+    property_name: Charlotte Square
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_80027/80027.png
+    vacancies:
+    - gla: 3300
+      id: '19'
+    - gla: 2100
+      id: '3'
+  Regency_92060:
+    property_name: Shoppes of Pebblebrooke
+    site_plan: /home/brandondey/Documents/AiCRE/dr_fill_agent_sites/Alyson-Gannon/assets/images/Regency_92060/92060.png
+    vacancies:
+    - gla: 2400
+      id: '0005'
