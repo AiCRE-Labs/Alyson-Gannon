@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/Alyson-Gannon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Alyson-Gannon/" rel="alternate" type="text/html" /><updated>2024-03-07T22:13:36-05:00</updated><id>http://localhost:4000/Alyson-Gannon/feed.xml</id><title type="html">AiCRE</title><entry><title type="html">Village Center</title><link href="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html" rel="alternate" type="text/html" title="Village Center" /><published>2024-03-07T20:57:41-05:00</published><updated>2024-03-07T20:57:41-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html"><![CDATA[<div class="slide-in-left">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/Alyson-Gannon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Alyson-Gannon/" rel="alternate" type="text/html" /><updated>2024-04-01T07:49:24-04:00</updated><id>http://localhost:4000/Alyson-Gannon/feed.xml</id><title type="html">AiCRE</title><entry><title type="html">Village Center</title><link href="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html" rel="alternate" type="text/html" title="Village Center" /><published>2024-03-07T20:57:41-05:00</published><updated>2024-03-07T20:57:41-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_113/2024/03/07/Regency_113.html"><![CDATA[<div class="slide-in-left">
 <h1>
     <span id="head"></span>
 </h1>
@@ -620,7 +620,9 @@ var head = new Typed('#spaces', {
 });
 </script>
     
-</h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_179" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Corkscrew Village</title><link href="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html" rel="alternate" type="text/html" title="Corkscrew Village" /><published>2024-03-07T20:56:45-05:00</published><updated>2024-03-07T20:56:45-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html"><![CDATA[<div class="slide-in-left">
+</h2></h2></div></h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_179" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Corkscrew Village</title><link href="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html" rel="alternate" type="text/html" title="Corkscrew Village" /><published>2024-03-07T20:56:45-05:00</published><updated>2024-03-07T20:56:45-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_60265/2024/03/07/Regency_60265.html"><![CDATA[<!--  -->
+
+<div class="slide-in-left">
 <h1>
     <span id="head"></span>
 </h1>
@@ -634,6 +636,348 @@ X vacancies out of Y spaces.
     
     
 <img src="/Alyson-Gannon/assets/images/Regency_60265/60265.png" alt="Property Site Plan" class="img-responsive" />
+</div>
+
+<!-- RESTRICTIONS -->
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Scope</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>Food and Drug Restrictions</td>
+      <td>1, 3, 4</td>
+      <td>
+        <button class="details-btn" onclick="toggleDetails(this)">View Details</button>
+        <div class="details-content" style="display: none;">
+          
+          <p><strong>No supermarkets</strong></p>
+          
+          <p>Minimum GLA: 5000 square feet</p>
+          
+          
+          <p><strong>No use for</strong></p>
+          
+          <p>Specific Uses: bakery, delicatessen, sale of fresh or frozen meat/fish/poultry/produce, sale of alcoholic beverages, sale of ethical pharmaceutical products </p>
+          
+          
+        </div>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>Shopping Center Restrictions</td>
+      <td>1, 3, 4</td>
+      <td>
+        <button class="details-btn" onclick="toggleDetails(this)">View Details</button>
+        <div class="details-content" style="display: none;">
+          
+          <p><strong>No use for</strong></p>
+          
+          <p>Specific Uses: bar, tavern, cocktail lounge, adult book/video store, automotive maintenance/repair facility, warehouse, car wash, entertainment or recreational facility, training or educational facility, renting/leasing/selling of boats, motor vehicles, trailers, industrial purposes </p>
+          
+          
+        </div>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>Location Restrictions</td>
+      <td>4</td>
+      <td>
+        <button class="details-btn" onclick="toggleDetails(this)">View Details</button>
+        <div class="details-content" style="display: none;">
+          
+          <p><strong>Restrictions within 100 feet of Parcel 2</strong></p>
+          
+          <p>Specific Uses: restaurant, medical/dental/professional/business office </p>
+          
+          
+          <p><strong>Total floor area limit</strong></p>
+          
+          <p>Maximum Total Floor Area: 12000 square feet</p>
+          
+          
+          <p><strong>Individual use floor area limit</strong></p>
+          
+          <p>Maximum Individual Use Floor Area: 1500 square feet</p>
+          
+          
+        </div>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<!-- EXCLUSIONS -->
+<div class="tenant-types">
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Nail Salon
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 390</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Banks
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 360</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Business Services/Other
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 330</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Pet Shop Specialty
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 430</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Dentist
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 350</h4>
+        
+        <p>Exclusive Use: A Dental Practice. Landlord has the right, however to lease space in the Shopping Center to a Dental Practice that engages primarily in Orthodontia.</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>%</p>
+        <!-- <p>Lease Date: 2012-12-06</p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: </p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Insurance
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 310</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Massage/Spa
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 100</h4>
+        
+        <p>Exclusive Use: No tenants with primary business as: ["Therapeutic massage", "waxing", "hair removal and facial services"]</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>0.2%</p>
+        <!-- <p>Lease Date: </p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: Other tenants in the Landlord's Building may sell one or more of the exclusive item(s) described above as an incidental part of its business (for purposes hereof, 'incidental part' means twenty percent (20%) or less of such tenant's sales).</p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Optometrist
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 440</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Traditional Grocer
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 200</h4>
+        
+        <p>Exclusive Use: Tenant shall have the exclusive right to: (i) operate a grocery supermarket, bakery, delicatessen, fish market, and on-premises photo finishing facility; (ii) sell drugs/other products which are required to be dispensed by a registered pharmacist; (iii) engage in retail sales of items of food for “off-premises” consumption. Exceptions to Exclusive Uses for occupants of the center and adjacent property: (i) a sit down restaurant offering prepared ready-to-eat food items for consumption on or off the premises; (ii) a delicatessen or sandwich shop type restaurant (but not bakery) which offers take out service as an incidental part of its restaurant operation – provided at least 70% of leasable floor area (excluding kitchen or food prep areas) is utilized for seated dining; (iii) health food or nutrition center, ice cream parlor or frozen yogurt store, franchise doughnut shop (i.e. Dunkin Donut or Krispy Kreme), specialty bagel shop, candy store, or a pizza pickup or delivery outlet, all of which may offer the sale of food items for consumption on or off premises or a beer and wine store; (iv) a combination gas station and convenience food store operation provided: leasable floor area devoted to the sale of food/beverage shall not be greater than 1,500 square feet; shall not permit a gas station/convenience food store owned/ operated/controlled by or identified with another grocery supermarket entity or general merchandise retailer. (Sec. 16.02).</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>%</p>
+        <!-- <p>Lease Date: 1996-03-19</p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: </p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Liquor Store
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 130</h4>
+        
+        <p>Exclusive Use: Tenant shall have the exclusive right to operate a liquor store and sell, store, use, or give away beer, wine or liquor for off-premises consumption within the Shopping Center, including any Outparcels and adjacent tracts now owned (or later acquired) by Landlord, and that Landlord shall not permit any portion of the Shopping Center or such Outparcels or adjacent tracts to be used for such use; provided that it is understood that other tenant or occupants may sell one or more of the foregoing restricted items, other than liquor (which is expressly prohibited, as an incidental part of their business (defined as less than 10% of the sales floor area). Exclusive does not apply to Publix Super Markets, its affiliates or subsidiaries. (Sec. 7)</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>%</p>
+        <!-- <p>Lease Date: 2015-02-20</p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: </p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Real Estate
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 340</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Sit Down Dining Pizza/Italian
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 460</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Sit Down Dining- Pizza/Italian
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 400</h4>
+        
+        <p>Exclusive Use: Landlord will not lease in the future to any tenant in the Landlord's Building for the purpose of conducting within the Landlord's Building as its primary business the sale of: Cooked pizza for sit down and carryout purposes.</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>0.1%</p>
+        <!-- <p>Lease Date: 1997-12-17</p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: It is further understood that other tenants (including any assignees, sublessees or other transferees thereof) in the Landlord's Building may sell one or more of the exclusive item(s) described above as an incidental part of its business (for purposes hereof, "incidental part" means ten percent (10%) or less of such tenant's sales), and permission heretofhere or hereafter granted by Landlord to conduct such incidental sales shall not be deemed to violate this covenant.</p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Hair Salon
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 420</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Mailing/Packaging
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 320</h4>
+        
+        <p>Exclusive Use: The sale, offering or providing of the following products or services: packaging and shipping services for profit, mailbox rentals, UPS, USPS, DHL, Fed Ex and any other related delivery services, facsimile for profit, copies, stamps, metered mail and printing for profit. (Lease Exhibit H Special Provision #1)</p>
+        <p><strong>Incidental Sales Allowed Up To:</strong>%</p>
+        <!-- <p>Lease Date: 2005-11-11</p> -->
+        <!-- <p>Property Name: Corkscrew Village</p> -->
+        <p>Details: </p>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="tenant-type">
+    <button class="tenant-type-btn" onclick="toggleDetails(this)">
+      Fast Casual- Asian
+    </button>
+    <div class="tenant-details" style="display: none;">
+      
+      <div class="unit">
+        <h4>Unit #: 380</h4>
+        
+      </div>
+      
+    </div>
+  </div>
+  
 </div>
 
 <div class="slide-in-left">
@@ -882,7 +1226,17 @@ var head = new Typed('#spaces', {
     cursorChar: '|'
 });
 </script>
-    
+
+<script>
+function toggleDetails(button) {
+  var content = button.nextElementSibling;
+  if (content.style.display === "none") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
+}
+</script>
 </h2></h2></div></h3></h3></h3></h3>]]></content><author><name></name></author><category term="Regency_60265" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Regency Square</title><link href="http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18.html" rel="alternate" type="text/html" title="Regency Square" /><published>2024-03-07T20:56:28-05:00</published><updated>2024-03-07T20:56:28-05:00</updated><id>http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18</id><content type="html" xml:base="http://localhost:4000/Alyson-Gannon/regency_18/2024/03/07/Regency_18.html"><![CDATA[<div class="slide-in-left">
 <h1>
     <span id="head"></span>

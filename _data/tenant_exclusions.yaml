@@ -1,0 +1,148 @@
+- tenant_type: Nail Salon
+  units:
+  - unit_number: '390'
+    exclusive_uses: []
+- tenant_type: Banks
+  units:
+  - unit_number: '360'
+    exclusive_uses: []
+- tenant_type: Business Services/Other
+  units:
+  - unit_number: '330'
+    exclusive_uses: []
+- tenant_type: Pet Shop Specialty
+  units:
+  - unit_number: '430'
+    exclusive_uses: []
+- tenant_type: Dentist
+  units:
+  - unit_number: '350'
+    exclusive_uses:
+    - description: 'Exclusive Use: A Dental Practice. Landlord has the right, however
+        to lease space in the Shopping Center to a Dental Practice that engages primarily
+        in Orthodontia.'
+      incidentals:
+        percentage: null
+        source_text: null
+      lease_date: '2012-12-06'
+      property_name: Corkscrew Village
+- tenant_type: Insurance
+  units:
+  - unit_number: '310'
+    exclusive_uses: []
+- tenant_type: Massage/Spa
+  units:
+  - unit_number: '100'
+    exclusive_uses:
+    - description: 'Exclusive Use: No tenants with primary business as: ["Therapeutic
+        massage", "waxing", "hair removal and facial services"]'
+      incidentals:
+        percentage: 0.2
+        source_text: Other tenants in the Landlord's Building may sell one or more
+          of the exclusive item(s) described above as an incidental part of its business
+          (for purposes hereof, 'incidental part' means twenty percent (20%) or less
+          of such tenant's sales).
+      lease_date: null
+      property_name: Corkscrew Village
+- tenant_type: Optometrist
+  units:
+  - unit_number: '440'
+    exclusive_uses: []
+- tenant_type: Traditional Grocer
+  units:
+  - unit_number: '200'
+    exclusive_uses:
+    - description: "Exclusive Use: Tenant shall have the exclusive right to: (i) operate\
+        \ a grocery supermarket, bakery, delicatessen, fish market, and on-premises\
+        \ photo finishing facility; (ii) sell drugs/other products which are required\
+        \ to be dispensed by a registered pharmacist; (iii) engage in retail sales\
+        \ of items of food for \u201Coff-premises\u201D consumption. Exceptions to\
+        \ Exclusive Uses for occupants of the center and adjacent property: (i) a\
+        \ sit down restaurant offering prepared ready-to-eat food items for consumption\
+        \ on or off the premises; (ii) a delicatessen or sandwich shop type restaurant\
+        \ (but not bakery) which offers take out service as an incidental part of\
+        \ its restaurant operation \u2013 provided at least 70% of leasable floor\
+        \ area (excluding kitchen or food prep areas) is utilized for seated dining;\
+        \ (iii) health food or nutrition center, ice cream parlor or frozen yogurt\
+        \ store, franchise doughnut shop (i.e. Dunkin Donut or Krispy Kreme), specialty\
+        \ bagel shop, candy store, or a pizza pickup or delivery outlet, all of which\
+        \ may offer the sale of food items for consumption on or off premises or a\
+        \ beer and wine store; (iv) a combination gas station and convenience food\
+        \ store operation provided: leasable floor area devoted to the sale of food/beverage\
+        \ shall not be greater than 1,500 square feet; shall not permit a gas station/convenience\
+        \ food store owned/ operated/controlled by or identified with another grocery\
+        \ supermarket entity or general merchandise retailer. (Sec. 16.02)."
+      incidentals:
+        percentage: null
+        source_text: null
+      lease_date: '1996-03-19'
+      property_name: Corkscrew Village
+- tenant_type: Liquor Store
+  units:
+  - unit_number: '130'
+    exclusive_uses:
+    - description: 'Exclusive Use: Tenant shall have the exclusive right to operate
+        a liquor store and sell, store, use, or give away beer, wine or liquor for
+        off-premises consumption within the Shopping Center, including any Outparcels
+        and adjacent tracts now owned (or later acquired) by Landlord, and that Landlord
+        shall not permit any portion of the Shopping Center or such Outparcels or
+        adjacent tracts to be used for such use; provided that it is understood that
+        other tenant or occupants may sell one or more of the foregoing restricted
+        items, other than liquor (which is expressly prohibited, as an incidental
+        part of their business (defined as less than 10% of the sales floor area).
+        Exclusive does not apply to Publix Super Markets, its affiliates or subsidiaries.
+        (Sec. 7)'
+      incidentals:
+        percentage: null
+        source_text: null
+      lease_date: '2015-02-20'
+      property_name: Corkscrew Village
+- tenant_type: Real Estate
+  units:
+  - unit_number: '340'
+    exclusive_uses: []
+- tenant_type: Sit Down Dining Pizza/Italian
+  units:
+  - unit_number: '460'
+    exclusive_uses: []
+- tenant_type: Sit Down Dining- Pizza/Italian
+  units:
+  - unit_number: '400'
+    exclusive_uses:
+    - description: 'Exclusive Use: Landlord will not lease in the future to any tenant
+        in the Landlord''s Building for the purpose of conducting within the Landlord''s
+        Building as its primary business the sale of: Cooked pizza for sit down and
+        carryout purposes.'
+      incidentals:
+        percentage: 0.1
+        source_text: It is further understood that other tenants (including any assignees,
+          sublessees or other transferees thereof) in the Landlord's Building may
+          sell one or more of the exclusive item(s) described above as an incidental
+          part of its business (for purposes hereof, "incidental part" means ten percent
+          (10%) or less of such tenant's sales), and permission heretofhere or hereafter
+          granted by Landlord to conduct such incidental sales shall not be deemed
+          to violate this covenant.
+      lease_date: '1997-12-17'
+      property_name: Corkscrew Village
+- tenant_type: Hair Salon
+  units:
+  - unit_number: '420'
+    exclusive_uses: []
+- tenant_type: Mailing/Packaging
+  units:
+  - unit_number: '320'
+    exclusive_uses:
+    - description: 'Exclusive Use: The sale, offering or providing of the following
+        products or services: packaging and shipping services for profit, mailbox
+        rentals, UPS, USPS, DHL, Fed Ex and any other related delivery services, facsimile
+        for profit, copies, stamps, metered mail and printing for profit. (Lease Exhibit
+        H Special Provision #1)'
+      incidentals:
+        percentage: null
+        source_text: null
+      lease_date: '2005-11-11'
+      property_name: Corkscrew Village
+- tenant_type: Fast Casual- Asian
+  units:
+  - unit_number: '380'
+    exclusive_uses: []

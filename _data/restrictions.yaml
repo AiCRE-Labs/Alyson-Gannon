@@ -1,0 +1,49 @@
+- declarationDate: '1995-11-30'
+  restrictions:
+  - details:
+    - conditions:
+      - conditionType: Minimum GLA
+        units: square feet
+        value: 5000
+      restriction: No supermarkets
+    - conditions:
+      - conditionType: Specific Uses
+        value: bakery, delicatessen, sale of fresh or frozen meat/fish/poultry/produce,
+          sale of alcoholic beverages, sale of ethical pharmaceutical products
+      restriction: No use for
+    scope:
+    - 1
+    - 3
+    - 4
+    type: Food and Drug Restrictions
+  - details:
+    - conditions:
+      - conditionType: Specific Uses
+        value: bar, tavern, cocktail lounge, adult book/video store, automotive maintenance/repair
+          facility, warehouse, car wash, entertainment or recreational facility, training
+          or educational facility, renting/leasing/selling of boats, motor vehicles,
+          trailers, industrial purposes
+      restriction: No use for
+    scope:
+    - 1
+    - 3
+    - 4
+    type: Shopping Center Restrictions
+  - details:
+    - conditions:
+      - conditionType: Specific Uses
+        value: restaurant, medical/dental/professional/business office
+      restriction: Restrictions within 100 feet of Parcel 2
+    - conditions:
+      - conditionType: Maximum Total Floor Area
+        units: square feet
+        value: 12000
+      restriction: Total floor area limit
+    - conditions:
+      - conditionType: Maximum Individual Use Floor Area
+        units: square feet
+        value: 1500
+      restriction: Individual use floor area limit
+    scope:
+    - 4
+    type: Location Restrictions
